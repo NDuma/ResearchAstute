@@ -1,5 +1,6 @@
 # ResearchAstute
-DORF - Distributed Open Research Foundation
+## About
+### DORF - Distributed Open Research Foundation
  - Clustering searchers on similar tasks.
  - Mapping Knowledge.
  - Machine Learning backed; with human guided semantic extractions.
@@ -7,3 +8,7 @@ DORF - Distributed Open Research Foundation
  - Tools to take with you in your Org.
 
 Curated Tools, Integrations, and some special made components.
+
+### Contributor List
+
+-Nicholas D'Artagnan Dumas | [@NDuma](//github.com/NDuma) | [@NDoubles](//twitter.com/NDoubles) | nickdumas
