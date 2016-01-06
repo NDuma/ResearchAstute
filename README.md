@@ -4,5 +4,6 @@ DORF - Distributed Open Research Foundation
  - Mapping Knowledge.
  - Machine Learning backed; with human guided semantic extractions.
  - Threaded Conversations & Knowledge Economy.
+ - Tools to take with you in your Org.
 
 Curated Tools, Integrations, and some special made components.
