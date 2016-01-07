@@ -40,3 +40,4 @@ Name | Github | Twitter | IRC |
 :--- | :----: | :-----: | :-:
 | Nicholas D'Artagnan Dumas | [@NDuma](//github.com/NDuma) | [@NDoubles](//twitter.com/NDoubles) | EsCogitum |
 
+## Backed By Kredd.it & Aiming Past Colony.io
