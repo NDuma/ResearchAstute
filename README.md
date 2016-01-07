@@ -40,4 +40,5 @@ Name | Github | Twitter | IRC |
 :--- | :----: | :-----: | :-:
 | Nicholas D'Artagnan Dumas | [@NDuma](//github.com/NDuma) | [@NDoubles](//twitter.com/NDoubles) | EsCogitum |
 
-## Backed By Kredd.it & Aiming Past Colony.io
+#### Backed By Kredd.it & Aiming Past Colony.io
+##### https://okfn.org/opendata/why-open-data/research-science-and-culture/
