@@ -32,7 +32,7 @@ Curated Tools, Integrations, and some special made components.
    - Sometimes information is buried ... leave breadcrumbs ... so we can learn to skip the junk.
  - Heat Map Options
    - All pages in a subject, Sections of Pages [Contested or Agreed Voting & Discussion]
- - 
+ - Quid & EVE online for Research Production
 
 ### Contributor List
 
