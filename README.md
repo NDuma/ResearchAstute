@@ -20,6 +20,7 @@ Curated Tools, Integrations, and some special made components.
 | AnnotatorJS | [AnnotatorJS](http://annotatorjs.org/) | Base for Hypothes.is | Community & Features | "Annotator is an open-source JavaScript library to easily add annotation functionality to any webpage. Annotations can have comments, tags, links, users, and more." | [YES](http://github.com/openannotation/annotator/) |
 | Genius | [Genius.com](http://Genius.com) <br>&</br> [About Genius](http://genius.com/web-annotator) | Collaborative Lyrics<sup>+</sup> Disambiguation | Design, Popularity, UI/UX | "Genius is the world’s biggest collection of song lyrics and crowdsourced musical knowledge." | - |
 | Beagle | [BeagleLab](http://burntfen.com/projects/beagle/) | PDF & Chrome Ext | "Open Annotator, PDF.js, React, browserify, MongoDB, and other pretty sweet tools" | "...a system to capture, understand, and share lost data, we can facilitate science as a whole." | [YES](https://github.com/BeagleLab/beagle) | [MIT](https://raw.githubusercontent.com/BeagleLab/beagle/master/LICENSE) |
+| TrailBlazer | [Trailblazer](Trailblazer.io) | Web tavels 'graph' | Community Curation | 'fill in later' | Pending | -- |
 
 ### What's Different?
  - Multi-node Web Scraping & Parsing
