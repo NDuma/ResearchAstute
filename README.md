@@ -33,6 +33,14 @@ Curated Tools, Integrations, and some special made components.
  - Heat Map Options
    - All pages in a subject, Sections of Pages [Contested or Agreed Voting & Discussion]
  - Quid & EVE online for Research Production
+ - 
+ 
+### Contributing
+
+### Core Collaboration Tools
+
+### Tools & Resources Repository MiniAwe+some
+[resources & tools for consideration](https://github.com/NDuma/ResearchAstute/blob/master/resources_tools.md)
 
 ### Contributor List
 
