@@ -15,15 +15,15 @@ To model combinatorics, cohorts, persona's, and collaborative contexts to result
 
 ## Immediate Considerations:
  - [ ] Chrome Extension
-  - [ ] Web.Archive +UX revision checker
-  - [ ] Preset URL & Extension Management System (Custom Basket - See "Some Decision Document")
+ - [ ] Web.Archive +UX revision checker
+ - [ ] Preset URL & Extension Management System (Custom Basket - See "Some Decision Document")
  - [ ] Create "Some Decision Document"
  - [ ] HUD Design Considerations
-  - [ ] 1. Trail On/Off
-          a. History + Tab / Link parent child relationship
-          b. Group aggregation "Delphic Clustering"
-            I. See Constellat.io
-          c. capture search results          
+ - [ ] 1. Trail On/Off
+     *     a. History + Tab / Link parent child relationship
+     *     b. Group aggregation "Delphic Clustering"
+       *     I. See Constellat.io
+     *     c. capture search results          
   - [ ] 2. Persona / re-Search mgmt
   - [ ] 3. "Clipping" & "Notation" + Tagging
   - [ ] 4. "Elastic Search" + Synonym ranking inputs
