@@ -2,7 +2,7 @@ Research Astute Project Roadmap
 ===
 This roadmap represents the current core development directions of the Research Astute project.
 
-> The biggest single contribution users can help make to the jspm project is by working on issues, bugs and features
+> The biggest single contribution users can help make to the project is by working on issues, bugs and features
 that **are not necesarily related to this roadmap**. That is because you have a unique understanding of what is lacking in the project,
 that would be great to hear. [See CONTRIBUTING.md for more information here](CONTRIBUTING.md).
 
