@@ -1,7 +1,20 @@
 {Description in progress}
 # ResearchAstute
 ## About
-### DORF - Distributed Open Research Foundation
+##### Providing tools to Agencies and Institutions to groom and validate technological trends and artifacts; Companies to naviagate and plan in competetive seas; Organizations and Individuals to Investigate and Orchestrate Actions; Academies to Coordinate WorldWide Global Research Initiatives, a portal of aggregation, pairing, translation, and vetting.
+##### Providing Gudies on How to Take Notes as a Group, in any class situation with our interface for better grades and comprehension w/ existing tools like Google Docs & EtherPad.
+##### Posteritizing an All for one and One for All; Captain Planet type of Sum of Parts Mentality & Interface.
+##### Pioneering ML AI Semantic and Social Engineering / Architecting initiatives through partner programs like Kohortz.Github.io
+##### Aggregating Knowledge Libraries and Curating Network Innovation Ecologies
+##### Pioneering Emergence in a Quantum Future - Playing Chess with Reality
+##### Facilitating Knowledge Curation, Summation, Validation, Dissemination, Conversation, Innovation; and, Procurement.
+##### Data Aggregation and Ingestion Tools for Crowds & Clusters
+
+##### Cloud based operations & Saved / Shared Resources
+
+
+
+### DORF - Distributed Open Research Foundation (Change?)
  - Clustering searchers on similar topics & tasks.
  - Mapping Knowledge.
  - Machine Learning backed; with human guided semantic extractions.
