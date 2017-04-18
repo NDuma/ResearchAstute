@@ -70,4 +70,5 @@ To model combinatorics, cohorts, persona's, and collaborative contexts to result
    - [ ] Grade & Recommend Methodologies
    - [ ] Carry Out Scientific Validation Throughout Distributed Labs & Partnerships
    - [ ] Curate to Innovate -> RSA Video "Coffee House Effect in Renaissance"
-   - [ ] 
+   - [ ] Be the leading platform for research and discovery coordination
+   - [ ] Integrate IoT distributed laboratories and classrooms VR/AR w/ DIY & Non-Profit Kits
