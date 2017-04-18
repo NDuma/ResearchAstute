@@ -14,15 +14,15 @@ To curate knowledge ecology maps and facilitate transaction
 To model combinatorics, cohorts, persona's, and collaborative contexts to results driven A/B architecture first design.
 
 ## Immediate Considerations:
- - [ ] Chrome Extension
- - [ ] Web.Archive +UX revision checker
- - [ ] Preset URL & Extension Management System (Custom Basket - See "Some Decision Document")
- - [ ] Create "Some Decision Document"
- - [ ] HUD Design Considerations
- - [ ] 1. Trail On/Off
-     *     a. History + Tab / Link parent child relationship
-     *     b. Group aggregation "Delphic Clustering"
-       *     I. See Constellat.io
+ 1. [ ] Chrome Extension
+ 2. [ ] Web.Archive +UX revision checker
+ 3. [ ] Preset URL & Extension Management System (Custom Basket - See "Some Decision Document")
+ 4. [ ] Create "Some Decision Document"
+ 5. [ ] HUD Design Considerations
+ 6. [ ] Trail On/Off
+     *     7. History + Tab / Link parent child relationship
+     *     8. Group aggregation "Delphic Clustering"
+       *     9. See Constellat.io
      *     c. capture search results          
   - [ ] 2. Persona / re-Search mgmt
   - [ ] 3. "Clipping" & "Notation" + Tagging
@@ -54,10 +54,20 @@ To model combinatorics, cohorts, persona's, and collaborative contexts to result
           a. as Users go through FCC to generate "Persona's" and filter best answer sources to context.
             I. Consider "Google Research" embedded overlay on Google Docs
               !! Most recent visit to FCC has Gitter Chat overlay on the right column !! 
-              
+  - [ ] 15. Incorporate Data Citation indexes & Existing Scholarly ID systems
+          a. 
+  - [ ] 16. Information Dissemination Tools
+          a. see notes on information uptake
+  - [ ] 17. Task Performance Metrics
+  - [ ] 18. Outlier Identifiers (Can we always make 'lemonade'?)
+  - [ ] 19. Social Media News Source Tracking + "Read Later" Feature.
+  - [ ] 20. "Interest Group Aggregation" - Chat threading {see notes}
 ## Think of World of Warcraft HUD's for Research
   
   ## Long Term Goals
    - [ ] Process the Universe
    - [ ] Rehabilitate gambling gamers into data processors online
-   
+   - [ ] Grade & Recommend Methodologies
+   - [ ] Carry Out Scientific Validation Throughout Distributed Labs & Partnerships
+   - [ ] Curate to Innovate -> RSA Video "Coffee House Effect in Renaissance"
+   - [ ] 
